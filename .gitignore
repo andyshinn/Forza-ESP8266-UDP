@@ -1,0 +1,9 @@
+.direnv
+include/ssid_creds.h
+
+# PlatformIO stuff
+.pioenvs
+.piolibdeps
+.clang_complete
+.gcc-flags.json
+.pio

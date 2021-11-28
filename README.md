@@ -12,3 +12,9 @@ Demo can be seen [on instagram](https://www.instagram.com/p/CAkvRcDFVOZ/).
 * [FastLED](https://github.com/FastLED/FastLED) for WS2812 support.
 
 * Forza. This requires the UDP Broadcasting to be enabled and IP and port to be configured in the game. This is deep in the HUD menus.
+
+## Modifications From Upstream
+
+* Work on ESP8266
+* Built with PlatformIO
+* OTA firmware updates
